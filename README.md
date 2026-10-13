@@ -44,19 +44,19 @@ Xây dựng một chương trình (phần mềm) có khả năng:
 
 ## 4. Phân công nhiệm vụ
 
-* **Thành viên 1: Lý thuyết và thuật toán de-embedding**
+* **Minh Đức (Thành viên 1): Lý thuyết và thuật toán de-embedding**
   * Tổng hợp lý thuyết tham số S.
   * Viết hàm chuyển đổi $S \leftrightarrow T$.
   * Viết thuật toán khử fixture trái và phải.
   * Xử lý nội suy và sai lệch lưới tần số.
   * Viết phần lý thuyết trong báo cáo.
-* **Thành viên 2: Miền thời gian và định vị gián đoạn**
+* **Thế Anh (Thành viên 2): Miền thời gian và định vị gián đoạn**
   * Chuẩn hóa dữ liệu tần số trước IFFT.
   * Viết các cửa sổ (Hann, Hamming, Kaiser, v.v.).
   * Biến đổi $S_{11}(f)$ sang miền thời gian.
   * Viết thuật toán tìm đỉnh phản xạ và quy đổi thời gian thành khoảng cách.
   * Đánh giá sai số định vị.
-* **Thành viên 3: Dữ liệu, kiểm thử và tích hợp**
+* **Quang Tân (Thành viên 3): Dữ liệu, kiểm thử và tích hợp**
   * Viết bộ đọc và ghi file Touchstone.
   * Tạo dữ liệu mô phỏng kiểm thử.
   * Tích hợp các mô-đun thành chương trình hoàn chỉnh.

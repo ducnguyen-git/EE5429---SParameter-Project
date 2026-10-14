@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../EE5427---4x4-Multiply-Accumulate"
+		},
+		{
+			"path": "../EE5223---winograd-conv-fpga"
+		}
+	],
+	"settings": {}
+}
